@@ -14,5 +14,8 @@ Sistema de gestión de pedidos para una pizzería. El sistema permitirá a los c
 
 ### Modelo
 
+## Alcance Funcional
+
 ### Alcance Minimo
+
 
