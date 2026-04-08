@@ -3,7 +3,7 @@
 ## Grupo
 
 ### Integrantes
-*55158 - Setti, Francisco
+* 55158 - Setti, Francisco
 * " "  - Columbich, Julian
 * " "  - Milton, Alvarez
 
