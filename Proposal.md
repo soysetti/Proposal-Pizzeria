@@ -12,7 +12,8 @@
   
 ## Repositorios
 
-## Pizzeria
+## Tema
+### Pizzeria
 
 ### Descripcion
 Sistema de gestión para pizzerías que integra pedidos, envíos a domicilio y reservas de mesas. Controla el stock de ingredientes y la disponibilidad de productos para optimizar la operativa del negocio.
